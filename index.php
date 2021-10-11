@@ -1,17 +1,17 @@
 
 <!DOCTYPE html>
 <html lang="en">
+<title>Chatbot</title>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chatbot</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 </head>
 <body>
     <div class="wrapper">
-        <div class="title">Simple Online Chatbot</div>
+        <div class="title">Chatbot</div>
         <div class="form">
             <div class="bot-inbox inbox">
                 <div class="icon">
